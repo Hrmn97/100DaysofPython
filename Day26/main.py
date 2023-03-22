@@ -20,3 +20,6 @@ elif(hour>12 and hour<17):
     print("Good after noon sir")
 elif(hour>=17 and hour<0):
     print("Good night sir")
+
+
+    
